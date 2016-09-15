@@ -30,4 +30,6 @@ Can take 2 to 4 champions.
 ## • DevTeam
 
 **Alif** Matthias (@alifdev) worked on the corewar.
+
+
 **Rotaru** Iulian worked on the asm.
