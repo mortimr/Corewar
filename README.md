@@ -1,3 +1,5 @@
+![Alt Text](./.core.png)
+
 # • Corewar
 The Corewar is a game where champions written in redcode (an assembly-like language) are fighting each other in a Virtual Machine (the Arena).
 
